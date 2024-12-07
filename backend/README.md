@@ -222,6 +222,6 @@ https://tcd-team-bkgfut2l.atlassian.net/jira/software/projects/SCRUM/boards/1/ba
 
 ---
 
-# Testing Map and Planner generator
+### Testing Map and Planner generator
 
-To test some feature, you have to use your own openAPI key(put it in the applications.properties file in the backend/src/main/resources) and googleAPI key(in the home.jsx file and the index.html file in the flights/src folder)
+To test these features, you have to use your own openAPI key(put it in the applications.properties file in the backend/src/main/resources) and googleAPI key(in the home.jsx file and the index.html file in the flights/src folder)
