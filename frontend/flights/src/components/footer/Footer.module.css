@@ -1,0 +1,35 @@
+.footer {
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+  .footerContent {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  .copy {
+    margin-bottom: 0.5rem;
+  }
+  .footerNav {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  .footerLink {
+    color: #0791cc;
+    text-decoration: none;
+  }
+  .footerLink:hover {
+    text-decoration: underline;
+  }
+  .navList{
+    gap: 30px;
+    display: flex;
+    flex-direction: row;
+  }
+  .navItem{
+    display: flex;
+    pointer-events: none;
+  }
+  
