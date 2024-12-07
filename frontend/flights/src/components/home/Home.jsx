@@ -563,7 +563,7 @@ const Home = () => {
         <Space>
           <div style={{ minWidth: '500px' }}>
             <GooglePlacesAutocomplete
-              apiKey="AIzaSyATBzrG7fNTsR6yLYqUKVktQZL8huu44XU"
+              apiKey="GoogleAPI key goes here"
               debounce="500"
               selectProps={{
                 searchValue,
